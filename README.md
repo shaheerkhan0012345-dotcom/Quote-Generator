@@ -1,2 +1,3 @@
 # Quote-Generator
 The Quote Generator is a simple and responsive web application built using HTML, CSS, and JavaScript that displays random inspirational quotes along with their authors. The app fetches quotes dynamically from an external API and updates the content instantly when the user clicks the “New Quote” button.
+It features a clean and modern user interface, fully optimized for mobile, tablet, and desktop devices using responsive design principles. Users can also share their favorite quotes directly on Twitter with a single click. This project demonstrates the use of API fetching, asynchronous JavaScript (async/await), DOM manipulation, and responsive UI design.
